@@ -1,4 +1,4 @@
-# projcet-vue
+# projcet-vuetest
 
 ## Project setup
 ```
